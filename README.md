@@ -1,6 +1,9 @@
-# idpro-toc
+# Body of Knowledge - Table of Contents - Work in progress
 Collaboration on the table of contents for IDPro Body of Knowledge
 
+The document to edit is the MS Word document toc.docx
+
+## History
 Text was downloaded from ether pad into IDproTOC.txt.
 
 The clean.sh script (in the scripts folder) converted it to a markdown format.
